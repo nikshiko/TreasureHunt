@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "",
+    
+
+    
+    "angular-sanitize": "",
+    "angular-animate": "",
+    
+    
+    "angular-mocks": "",
+    "angular-cookies": ""
+  }
+}
